@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Escreva um programa que leia a idade de uma
+//S008 Escreva um programa que leia a idade de uma
 //pessoa e mostre na tela quantos segundos
 //esta pessoa já viveu sem considerar ano bissexto
 public class IdadeSegs {
